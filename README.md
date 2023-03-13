@@ -5,31 +5,31 @@
 
 # Word-level AutoCompletion (WLAC)
 
-This is a new shared task called [WLAC](https://statmt.org/wmt22/word-autocompletion.html) in [WMT 2022](https://statmt.org/wmt22/index.html). In this year, the shared task involves in two language pairs German-to-English (De-En) and Chinese-to-English (Zh-En) with two directions. If you have any questions, please join in the [mailing list](https://groups.google.com/g/wlac2022). If you want to participate this shared task, please sign in [here](https://docs.google.com/forms/d/e/1FAIpQLSefGvf6v-p7a1ECJi1IUxQ6qGxonjGqi9tODTrhqhRGxFAjYQ/viewform?usp=sf_link).
+This is the shared task called [WLAC](https://statmt.org/wmt22/word-autocompletion.html) in [WMT 2023](https://statmt.org/wmt23/index.html). Similar to the WLAC 2022, the shared task involves in two language pairs German-to-English (De-En) and Chinese-to-English (Zh-En) with two directions. If you have any questions, please join in the [mailing list](https://groups.google.com/g/wlac2023). If you want to participate this shared task, please sign in [here](https://forms.gle/vu2Y6tZZZX3iptzL9).
 For any further information, please contact <a href="mailto:lemaoliu@gmail.com" target="_blank">Lemao Liu</a>.
 
 
 
-## Test datasets are available
-<b> The test datasets for four directions are in the director [test-data/](https://github.com/lemaoliu/WLAC/tree/main/test-data). </b>
+<!-- ## Test datasets are available
+<b> The test datasets for four directions are in the director [test-data/](https://github.com/lemaoliu/WLAC/tree/main/test-data). </b> -->
 
 
 ## Result Submission
 
-<b> The results must be sent to the email: lemaoliu@gmail.com before 23:59 on July 7th, 2022 (Anywhere-on-earth) .  </b>
+<b> The results must be sent to the email: lemaoliu@gmail.com before 23:59 on July 27th, 2023 (Anywhere-on-earth) .  </b>
 
 
-## Evaluation results for submissions
-The evaluation for submissions is available at [evaluation-results](wlac_result.md)
+<!-- ## Evaluation results for submissions
+The evaluation for submissions is available at [evaluation-results](wlac_result.md) -->
 
 ## Important Dates
 
-Release of training data:    <b> April 20th, 2022 </b> <br />
-Release of test data:    <b> 23:59 on July 1th, 2022 (Anywhere-on-earth)</b> <br />
-Result submission deadline:  <b>23:59 on July 7th, 2022 (Anywhere-on-earth) </b> <br />
-System paper submission deadline:    <b> September 7th, 2022 </b> <br />
-Paper notification:  <b> October 9th, 2022 </b> <br />
-Camera-ready version due:    <b> October 16, 2022 </b> <br />
+Release of training data:    <b> May 20th, 2023 </b> <br />
+Release of test data:    <b> 23:59 on July 20th, 2023 (Anywhere-on-earth)</b> <br />
+Result submission deadline:  <b>23:59 on July 27th, 2023 (Anywhere-on-earth) </b> <br />
+System paper submission deadline:    <b> TBA September, 2023 </b> <br />
+Paper notification:  <b> TBA October, 2023 </b> <br />
+Camera-ready version due:    <b> TBA October, 2023 </b> <br />
 
 
 ## Key Steps
@@ -103,9 +103,9 @@ where "typed_seq" denotes the typed sequence for the target word, i.e., "a" is t
 ### Simulated Development data for WLAC
 The simulated dev data can be obtained in the same way as the simulated training data mentioned above. 
 
-### Test Data for WLAC
+<!-- ### Test Data for WLAC
 <font color=red><b>ATTENTION!!</font> [Test data](https://github.com/lemaoliu/WLAC/tree/main/test-data) are available now and the testing results should be submitted on July 7.</b>
-
+ -->
 
 
 ## Reference
