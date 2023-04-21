@@ -27,9 +27,9 @@ The evaluation for submissions is available at [evaluation-results](wlac_result.
 Release of training data:    <b> May 20th, 2023 </b> <br />
 Release of test data:    <b> 23:59 on July 20th, 2023 (Anywhere-on-earth)</b> <br />
 Result submission deadline:  <b>23:59 on July 27th, 2023 (Anywhere-on-earth) </b> <br />
-System paper submission deadline:    <b> TBA September, 2023 </b> <br />
-Paper notification:  <b> TBA October, 2023 </b> <br />
-Camera-ready version due:    <b> TBA October, 2023 </b> <br />
+System paper submission deadline:    <b> September 1, 2023 </b> <br />
+Paper notification:  <b> October 6, 2023 </b> <br />
+Camera-ready version due:    <b> October 18, 2023 </b> <br />
 
 
 ## Key Steps
