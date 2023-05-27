@@ -12,6 +12,8 @@ For any further information, please contact <a href="mailto:lemaoliu@gmail.com" 
 
 <!-- ## Test datasets are available
 <b> The test datasets for four directions are in the director [test-data/](https://github.com/lemaoliu/WLAC/tree/main/test-data). </b> -->
+## NEWS
+- Release the valid datasets (see the directory data/valid/) in WLAC23 which are used as the test datasets in WLAC22.
 
 
 ## Result Submission
