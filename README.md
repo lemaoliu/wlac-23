@@ -5,7 +5,7 @@
 
 # Word-level AutoCompletion (WLAC)
 
-This is the shared task called [WLAC](https://statmt.org/wmt22/word-autocompletion.html) in [WMT 2023](https://statmt.org/wmt23/index.html). Similar to the WLAC 2022, the shared task involves in two language pairs German-to-English (De-En) and Chinese-to-English (Zh-En) with two directions. If you have any questions, please join in the [mailing list](https://groups.google.com/g/wlac2023). If you want to participate this shared task, please sign in [here](https://forms.gle/vu2Y6tZZZX3iptzL9).
+This is the shared task called [WLAC](http://www2.statmt.org/wmt23/word-autocompletion.html) in [WMT 2023](https://statmt.org/wmt23/index.html). Similar to the WLAC 2022, the shared task involves in two language pairs German-to-English (De-En) and Chinese-to-English (Zh-En) with two directions. If you have any questions, please join in the [mailing list](https://groups.google.com/g/wlac2023). If you want to participate this shared task, please sign in [here](https://forms.gle/vu2Y6tZZZX3iptzL9).
 For any further information, please contact <a href="mailto:lemaoliu@gmail.com" target="_blank">Lemao Liu</a>.
 
 
